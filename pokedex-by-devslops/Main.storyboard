@@ -278,8 +278,8 @@
                                     </imageView>
                                 </subviews>
                             </stackView>
-                            <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" axis="vertical" distribution="equalSpacing" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="d1I-g8-iDh">
-                                <rect key="frame" x="20" y="74" width="560" height="334"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="d1I-g8-iDh">
+                                <rect key="frame" x="20" y="85" width="560" height="334"/>
                                 <subviews>
                                     <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="fhe-HJ-GAI">
                                         <rect key="frame" x="0.0" y="0.0" width="560" height="30"/>
